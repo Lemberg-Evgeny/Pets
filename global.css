@@ -44,3 +44,7 @@ ul {
     list-style: square url(images/paw.gif);
     
 }
+
+p{
+    color: rgb(71, 90, 126);
+}
