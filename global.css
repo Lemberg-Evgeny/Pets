@@ -1,6 +1,6 @@
 /*** Global Settings ****/
 body {
-    font: normal 13px/1.6em Arial, Helvetica, sans-serif;
+    font: normal 15px/1.6em Helvetica, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     color: #7a2e40;
     margin: 0;
     padding: 0;
@@ -14,11 +14,10 @@ body {
 }
 
 nav, footer {
+    font-stretch:semi-expanded;
+    font-size: 16px;
+    /* font-family: Helvetica, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; */
     background: #7a2e40;
-    /* padding: 10px 20px; */
-    /* text-align: right; */
-    /* margin: 0; */
-    /* color: #ffffff; */
 }
 
 .logotxt1 {
@@ -38,8 +37,9 @@ h4 {
 }
 
 ul {
-    /* font-family: Georgia, serif; */
+    /* font-family: Helvetica, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; */
     padding: 0;
     margin: 0 0 0 17px;
     list-style: square url(images/paw.gif);
+    
 }
