@@ -1,0 +1,45 @@
+/*** Global Settings ****/
+body {
+    font: normal 13px/1.6em Arial, Helvetica, sans-serif;
+    color: #7a2e40;
+    margin: 0;
+    padding: 0;
+    background: #ffffff;
+    user-select: none;
+    text-align: right;
+}
+
+.rtl{
+    direction: rtl;
+}
+
+nav, footer {
+    background: #7a2e40;
+    /* padding: 10px 20px; */
+    /* text-align: right; */
+    /* margin: 0; */
+    /* color: #ffffff; */
+}
+
+.logotxt1 {
+    font: bold 25px Georgia, serif;
+    color: #7a2e40;
+    /* margin: 10px 0 0 15px; */
+}
+
+.logotxt2 {
+    font: bold 25px Georgia, serif;
+    color: #fa7393;
+    /* margin: 10px 0 0 15px; */
+}
+
+h4 {
+    color: #fa7393;
+}
+
+ul {
+    /* font-family: Georgia, serif; */
+    padding: 0;
+    margin: 0 0 0 17px;
+    list-style: square url(images/paw.gif);
+}
