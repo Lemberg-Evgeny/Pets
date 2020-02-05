@@ -34,7 +34,7 @@ footer {
 }
 
 h4 {
-    color: #fa7393;
+    color: #7a2e40;
 }
 
 h1 {
@@ -47,7 +47,10 @@ ul {
     padding: 0;
     margin: 0 17px;
     list-style: square url(images/paw.gif);
-
+    
+}
+li{
+    color: #fa7393;
 }
 
 p {
