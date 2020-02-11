@@ -36,9 +36,11 @@ h4 {
     color: #53198a;
 }
 
-h1, #adressLogo {
-    font-size: 20px;
-    color: #53198a;
+h1,
+#adressLogo {
+
+    color: #7a2e40;
+    font: bold 20px Georgia, serif;
 }
 
 ul {
@@ -46,15 +48,21 @@ ul {
     padding: 0;
     margin: 0 17px;
     list-style: square url(images/paw.gif);
-    
+
 }
-li{
+
+li {
     color: #7a2e40;
 }
 
 p {
     color: rgb(71, 90, 126);
 }
+
 /* div{
     border: 1px solid rgb(97, 178, 224);
 } */
+
+#adressLogo{
+border-radius: 5%;
+}
