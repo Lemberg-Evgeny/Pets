@@ -66,3 +66,9 @@ p {
 #adressLogo{
 border-radius: 5%;
 }
+
+#strong{
+    font-style: italic;
+    color: #53198a;
+    font-weight: bold;
+}
