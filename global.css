@@ -67,7 +67,7 @@ p {
 border-radius: 5%;
 }
 
-#strong{
+.subTitle{
     font-style: italic;
     color: #53198a;
     font-weight: bold;
