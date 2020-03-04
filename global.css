@@ -51,8 +51,14 @@ ul {
 
 }
 
-li {
+li.liTitle {
     color: #7a2e40;
+    list-style: square url(images/paw.gif);
+}
+
+li{
+    color: rgb(71, 90, 126);
+    list-style: none;
 }
 
 p {
